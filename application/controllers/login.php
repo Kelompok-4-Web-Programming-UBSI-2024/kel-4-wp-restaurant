@@ -55,4 +55,3 @@ class login extends CI_Controller {
 }
 
       
-.
