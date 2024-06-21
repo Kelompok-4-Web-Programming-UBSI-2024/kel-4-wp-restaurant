@@ -64,7 +64,7 @@
                            
                         </div>
                         <div class="text-center">
-                            <a class="small" href="<?= base_url('login') ?>">Already have an account? Login!</a>
+                            <a class="small" href="<?= base_url('login') ?>">Sudah punya akun? Login!</a>
                         </div>
                     </div>
                 </div>
